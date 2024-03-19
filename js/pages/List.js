@@ -100,22 +100,22 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks.
+                        Your challenge must have a video with clicks. It must have at minimum two attempts before the completion, and must extend to exiting the level. If needed, raw footage may be also asked for by staff.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. There is one exception though, if you pass a certain number of spams you can submit that as a completion. (Ex. You got past 3rd spam on OSL, you can submit that as a TSL completion as long as you played the OSL on the list.)
+                        All challenges must be verified FULLY LEGIT. No form of hacks may be allowed. If available, cheat indicators must be visible, as well as an FPS counter.
                     </p>
                     <p>
-                        Have clicks/taps in the video. If no taps are audible we cannot accept your record.
+                        Luck based challenges (for example a singular insanely high FPS frame perfect), will not be allowed.
                     </p>
                     <p>
-                        You must have raw footage.
+                        There are ZERO quality standards. You may submit what you wish as long as it is not the same or near identical to a level you or another person has already submitted.
                     </p>
                     <p>
-                        If you submit a challenge, the spam MUST be the Spam Legend click pattern. This means it must be a frame perfect spam, must be 15 cps, and must be a 3 frames up 1 frame down pattern. Your level must also be at least harder than Spam Legend. It must also have a bare minimum of 7 uninterrupted clicks within the spam segment.
+                        No hateful symbols, names, images, or depictions will be allowed in your challenge.
                     </p>
                     <p>
-                        You must play on 60FPS. Any higher or lower values will not be accepted.
+                        Regarding SPAM challenges only: The Corsair K55 and K70 are banned and cannot be used to verify challenges. Alongside this, no more than 2 fingers or inputs may be used.
                     </p>
                 </div>
             </div>
